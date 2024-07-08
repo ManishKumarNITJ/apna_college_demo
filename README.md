@@ -1,2 +1,3 @@
 # apna_college_demo
-this is my first git repo
+This is my forst Repo
+Auther - Manish Kumar
